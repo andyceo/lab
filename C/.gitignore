@@ -1,0 +1,14 @@
+# ignore all files in this dir
+/*/*/*
+!/*/*.c
+
+/*/*/*
+!/*/*/*.c
+
+# ... except this .gitignore
+#!.gitignore
+
+# ... and except *.c sources
+#!*/*.c
+#!/*/*.c
+#!/*/*/*.c
