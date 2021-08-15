@@ -1321,5 +1321,2742 @@
     "lastHandshake": 0,
     "name": "unknown-/94.130.108.35:9030",
     "connectionType": null
+  },
+  {
+    "address": "/169.254.29.36:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/173.249.63.233:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.113.211:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.58.92:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.184.158:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/64.225.114.26:9006",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.0",
+    "connectionType": null
+  },
+  {
+    "address": "/25.71.193.51:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/11.10.10.187:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628927259834,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/159.89.116.15:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628802797420,
+    "name": "mainnet-seed-node-toronto",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/54.37.236.119:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628527116996,
+    "name": "fabikar-eu-1",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/81.28.189.238:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/176.9.65.58:9132",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergopool-mainnet-node",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.119.6:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/46.4.112.10:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1627053527354,
+    "name": "node-test-4.0.12",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/155.94.210.146:9031",
+    "lastMessage": 0,
+    "lastHandshake": 1628601054023,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/155.94.210.147:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/198.18.54.25:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.232.21:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628698351782,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/77.240.190.228:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/135.181.17.240:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628950493650,
+    "name": "ergo-4.0.4-fi",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/172.86.75.201:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.51.199:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/2.1.1.28:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/51.75.147.1:9020",
+    "lastMessage": 0,
+    "lastHandshake": 1628652601409,
+    "name": "ergo-mainnet-recover",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/169.254.168.108:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/5.28.29.221:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.169.91:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/63.250.54.96:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628931421131,
+    "name": "legatumpool-node-1",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/100.64.8.166:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/198.18.36.46:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/198.18.37.199:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/140.118.153.54:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.161.117:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.2.47:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628685387629,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/100.120.108.8:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/51.38.53.121:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1627912385224,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/143.198.188.87:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628466750684,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/185.50.10.44:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.123.236:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.135.229:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/74.208.214.22:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.0",
+    "connectionType": null
+  },
+  {
+    "address": "/65.21.107.123:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ERGO-pool",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.183.222:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.115.9.222:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "Jurgz1",
+    "connectionType": null
+  },
+  {
+    "address": "/177.177.1.12:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/40.40.10.251:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.54.242:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/51.15.27.22:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/192.1.1.142:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/141.69.192.109:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/81.28.190.145:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/171.22.185.18:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628962950343,
+    "name": "ergo-4.0.4-tr",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/169.254.126.107:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/89.40.146.187:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628888771325,
+    "name": "ergo-mainnet-4.0.10",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/169.254.123.31:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.177.190:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.60.60:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/188.122.228.237:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/20.0.0.1:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.116.170:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.101.172:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/188.122.253.187:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.126.62:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.52.130:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.36.141:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/198.18.22.10:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.48.62:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.227.225:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628789262330,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/26.90.212.199:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.152.66:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.19.68:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/88.212.253.142:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.14.196:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/162.55.40.141:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-4.0.4-upx",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.169.10:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.86.54:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.162.4:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/188.122.230.152:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.39.212:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.52.133:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/104.217.251.70:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628573578053,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/85.114.162.92:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.103.53:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/26.80.138.244:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.56.163:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.25.219:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.52.167:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.113.242:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.161.84:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.62.199:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.111.183:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/172.86.75.201:9006",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-esot321c",
+    "connectionType": null
+  },
+  {
+    "address": "/130.0.0.9:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/81.28.191.132:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/45.147.197.186:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/185.115.97.158:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/188.122.248.153:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.34.207:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.49.126:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/81.28.189.37:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.173.218:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/185.50.10.128:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.99.12:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.183.210:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/81.28.191.6:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/12.18.1.96:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/100.85.0.1:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/176.9.65.58:9131",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergopool-mainnet-node",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.176.171:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628896394797,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/62.106.117.211:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/25.5.123.177:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.117.250:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.108.166:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.136.128:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628967625391,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/62.106.113.123:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/192.200.1.88:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.10",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.86.127:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/93.144.0.121:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "Jurgz1",
+    "connectionType": null
+  },
+  {
+    "address": "/5.28.30.251:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/5.28.29.51:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/188.122.237.121:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.29.129:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/167.71.14.34:9031",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/144.76.105.117:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.162.39:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.250.72:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.6.174:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/73.110.180.147:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628997237310,
+    "name": "bitches",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/100.120.34.43:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/78.47.127.170:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628967403742,
+    "name": "ergo-4.0.4-kva",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/12.18.1.185:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.53.104:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/81.91.189.54:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628997267129,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/100.120.60.39:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.103.83:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.36.87:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/176.9.104.149:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628811956799,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/169.254.210.114:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/81.177.220.199:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.184.99:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/37.119.13.204:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "Jurgz1",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.18.69:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.99.218:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.123.76:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.76.48:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.112.238:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/147.135.97.19:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628950662599,
+    "name": "ergo-4.0.4-us",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/62.106.112.186:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/178.174.167.193:9006",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "slashmad-ergo",
+    "connectionType": null
+  },
+  {
+    "address": "/5.28.27.107:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/25.19.85.119:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.49.208:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/46.101.167.167:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628811665548,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/85.114.168.165:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/195.10.210.35:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628657887246,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/185.10.183.188:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.39.74:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.100.99:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/104.149.177.118:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628574563046,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/168.119.69.50:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628917227595,
+    "name": "ergo-4.0.4-de1",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/62.106.102.222:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/213.239.193.208:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628154993266,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/169.254.169.114:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/93.71.4.93:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "Jurgz1",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.145.75:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/5.28.27.64:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.185.169:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.183.113:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/157.90.162.77:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.8",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.123.159:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/100.124.23.18:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.180.204:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/2.0.0.227:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.124.2.250:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.185.227:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.228.40:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/81.28.190.205:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/217.163.23.231:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.53.87:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.77.204:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/5.28.26.186:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.189.136:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.162.252:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.178.38:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/161.97.171.14:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/26.39.115.204:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.17.12:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/188.122.253.5:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.60.86:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/198.18.36.137:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.30.68:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.183.211:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/26.76.232.40:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/81.28.190.208:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.238.1:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/5.28.31.145:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.168.141:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/207.244.240.82:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628649218195,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/5.28.29.2:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/192.169.1.3:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/94.130.108.41:9020",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.35.110:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.95.132:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.244.152:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/94.130.168.191:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.9",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.212.174:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/192.0.2.43:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.10",
+    "connectionType": null
+  },
+  {
+    "address": "/66.70.176.94:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628810872543,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/169.254.189.242:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/135.181.140.182:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/209.58.173.154:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628922661205,
+    "name": "ergo-4.0.4-sg",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/169.254.184.162:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.184.9:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/188.122.228.15:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.38.31:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/81.28.190.251:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.117.8:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/31.27.131.192:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "Jurgz1",
+    "connectionType": null
+  },
+  {
+    "address": "/198.18.34.43:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.184.168:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/104.149.177.118:9031",
+    "lastMessage": 0,
+    "lastHandshake": 1628601334833,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/37.187.226.146:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.74.13:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/157.90.208.142:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628950397986,
+    "name": "ergo-4.0.4-de",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/25.104.127.87:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.123.73:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/81.28.189.191:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/141.69.60.49:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.80.199:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/188.122.253.198:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/81.177.208.251:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.52.157:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/5.28.28.57:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/217.182.197.196:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1627912335170,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/109.226.78.24:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/0.0.0.0:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628897949371,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/100.124.0.162:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/198.18.52.126:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.162.84:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.131.236:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.1.146:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/188.34.206.9:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.52.199:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.126.79:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.9.249:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.209.106:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/17.16.1.138:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1629034428964,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/79.139.58.67:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/172.21.75.32:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "Jurgz1",
+    "connectionType": null
+  },
+  {
+    "address": "/157.90.215.183:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628946967123,
+    "name": "ergo-4.0.4-de8",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/195.154.92.37:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.10",
+    "connectionType": null
+  },
+  {
+    "address": "/81.177.223.116:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/88.198.46.48:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "root-Ubuntu-1804-bionic-64-minimal",
+    "connectionType": null
+  },
+  {
+    "address": "/51.89.64.232:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1629009767069,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/178.63.16.52:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628901412690,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/25.67.164.145:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.111.224:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/51.222.82.16:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628945199029,
+    "name": "ergo-4.0.4-ca",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/192.10.10.220:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.86.106:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.14.143:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/130.63.251.232:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.178.152:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/157.90.181.97:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-4.0.4-de4",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.20.238:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.111.198:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.183.144:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/198.18.47.221:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/81.28.188.220:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.75.84:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/144.202.48.130:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/155.94.210.146:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/198.18.32.51:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.183.186:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/192.200.1.67:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.10",
+    "connectionType": null
+  },
+  {
+    "address": "/47.53.228.193:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "Jurgz1",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.185.145:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.26.225:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/40.40.10.253:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.101.63:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.98.28:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/139.99.46.39:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.0",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.99.93:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.228.119:9020",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.105.240:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.189.126:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/176.9.65.58:9130",
+    "lastMessage": 0,
+    "lastHandshake": 1628929247553,
+    "name": "ergopool-mainnet-node",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/100.120.50.46:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/58.126.235.110:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.178.210:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.126.235:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/147.135.31.184:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/192.169.1.101:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/26.41.109.90:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.46.231:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/188.122.231.15:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/37.59.37.220:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.178.72:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/144.91.107.87:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.98.26:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/81.91.189.52:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628651773028,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/100.120.21.64:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.124.248:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/54.36.175.140:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628651250997,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/170.187.159.90:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.109.128:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/192.10.10.207:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/51.75.129.200:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628813031253,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/5.28.23.55:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/5.135.141.103:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628825074025,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/62.106.101.252:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/213.152.106.56:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628988803462,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/100.120.3.242:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.1.186:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.35.136:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/188.166.90.155:9006",
+    "lastMessage": 0,
+    "lastHandshake": 1629031955678,
+    "name": "ergo-mainnet-4.0.0",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/45.56.115.124:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.36.22:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/213.17.181.15:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628664129894,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/45.33.17.155:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-samyca-srv4",
+    "connectionType": null
+  },
+  {
+    "address": "/5.28.19.191:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/104.156.251.233:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/157.90.177.126:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628991529261,
+    "name": "ergo-4.0.4-de4",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/100.120.15.3:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/5.9.16.30:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628161359256,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/100.124.66.153:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.183.138:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.13.91:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.126.106:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628977425020,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/100.120.45.12:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/198.18.24.4:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.188.14:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/81.28.190.147:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.59.71:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/5.28.30.104:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/80.85.86.63:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.103.236:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.78.125:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/91.199.118.161:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.0",
+    "connectionType": null
+  },
+  {
+    "address": "/109.226.84.213:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/147.135.130.54:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628770035772,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/85.114.178.12:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/165.227.26.175:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628255852232,
+    "name": "mainnet-seed-node-sf",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/109.226.101.223:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.103.140:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/25.96.178.155:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/100.124.71.10:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/136.244.110.145:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.0",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.123.147:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/192.186.67.118:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1629006187925,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/100.125.105.67:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.10",
+    "connectionType": null
+  },
+  {
+    "address": "/51.77.52.137:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1627920473025,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/81.28.189.195:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/159.65.11.55:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628548343299,
+    "name": "ergo-mainnet-4.0.0",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/100.120.13.135:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.111.175:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/51.89.64.232:19030",
+    "lastMessage": 0,
+    "lastHandshake": 1628411951002,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/100.127.255.253:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/26.46.127.220:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/25.110.88.240:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/54.36.166.159:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.7",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.68.236:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.116.180:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/213.189.217.51:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628777519059,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/81.28.190.186:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.45.10:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.25.232:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/81.28.191.30:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.162.247:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.187.113:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/168.119.8.184:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628950969896,
+    "name": "ergo-4.0.4-bckp",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/169.254.99.105:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.52.11:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/155.138.239.28:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/127.0.0.1:9020",
+    "lastMessage": 0,
+    "lastHandshake": 1629038554129,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/190.1.13.45:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1629029061673,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Incoming"
+  },
+  {
+    "address": "/64.225.1.246:9006",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.0",
+    "connectionType": null
+  },
+  {
+    "address": "/198.18.55.46:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.50.177:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/45.95.203.19:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.10",
+    "connectionType": null
+  },
+  {
+    "address": "/5.28.31.215:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.124.8.236:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/169.254.104.7:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": null
+  },
+  {
+    "address": "/85.114.161.81:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/100.120.36.123:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.11",
+    "connectionType": null
+  },
+  {
+    "address": "/94.130.108.35:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "",
+    "connectionType": null
+  },
+  {
+    "address": "/167.172.152.74:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/31.28.52.158:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/62.106.103.107:9030",
+    "lastMessage": 0,
+    "lastHandshake": 0,
+    "name": "ergo-mainnet-4.0.12",
+    "connectionType": null
+  },
+  {
+    "address": "/138.201.189.122:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1628966198920,
+    "name": "ergo-4.0.4-qrl",
+    "connectionType": "Outgoing"
+  },
+  {
+    "address": "/83.142.234.132:9030",
+    "lastMessage": 0,
+    "lastHandshake": 1629008697694,
+    "name": "ergo-mainnet-4.0.13",
+    "connectionType": "Outgoing"
   }
 ]
