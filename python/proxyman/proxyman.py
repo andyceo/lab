@@ -5,6 +5,7 @@ import csv
 import os
 from pathlib import Path
 from sqlalchemy import Column, create_engine
+from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.orm import declarative_base, sessionmaker
 from sqlalchemy.types import Integer, String
 from sqlalchemy.dialects.mysql import INTEGER
@@ -42,6 +43,9 @@ if __name__ == '__main__':
         for row in reader:
             row = [_.strip('').strip(' ."') for _ in row]
             proxy = Proxy(proxy=row[0], country=row[1])
-            session.add(proxy)
-        session.commit()
+            try:
+                session.add(proxy)
+                session.commit()
+            except SQLAlchemyError as e:
+                session.rollback()
     os.remove(file_path)
