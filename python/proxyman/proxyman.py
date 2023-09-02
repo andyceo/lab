@@ -20,6 +20,7 @@ class Proxy(Base):
     id = Column(UnsignedInt, primary_key=True, autoincrement='auto')
     proxy = Column(String(32), unique=True, nullable=False)
     country = Column(String(2), unique=False, nullable=False)
+    comment = Column(String(200), unique=False, nullable=True)
     # @todo: port and IP denormalization
     # @see https://stackoverflow.com/questions/2542011/most-efficient-way-to-store-ip-address-in-mysql
 
